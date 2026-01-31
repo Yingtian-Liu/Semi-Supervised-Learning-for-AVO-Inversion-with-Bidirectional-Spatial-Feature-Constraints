@@ -1,5 +1,8 @@
 # Semi-Supervised Learning for AVO Inversion with Bidirectional Spatial Feature Constraints
-
+> Code and data for the manuscript: **"Semi-Supervised Learning for AVO Inversion with Bidirectional Spatial Feature Constraints"**  
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.1.1-red.svg)](https://pytorch.org/)
+[![Python 3.7+](https://img.shields.io/badge/Python-3.7%2B-green.svg)](https://www.python.org/)
+> 
 [![DOI](https://img.shields.io/badge/DOI-10.1016/j.petsci.2026.01.005-blue)](https://www.sciencedirect.com/science/article/pii/S1995822626000051)
 
 ## 📢 Temporary Note
@@ -8,8 +11,8 @@ I am currently occupied with urgent work commitments, so the relevant code for t
 If you are interested in this research, please refer to the published article first:
 🔗 [Semi-Supervised Learning for AVO Inversion with Bidirectional Spatial Feature Constraints](https://www.sciencedirect.com/science/article/pii/S1995822626000051)
 
-### 🔬 Exploration of Utility Function Parameter Space  
-![Utility Function Exploration](https://github.com/Yingtian-Liu/Nash-multitask-learning-prestack-three-parameter-inversion/blob/main/Image/Exploration%20of%20utility%20function%20parameter%20space.png)  
+### 🔬 Spatial Feature Differences Among Various Methods
+![Spatial Feature Differences Among Various Methods](https://github.com/Yingtian-Liu/Semi-Supervised-Learning-for-AVO-Inversion-with-Bidirectional-Spatial-Feature-Constraints/blob/main/Image/Spatial%20feature%20differences%20among%20various%20methods.PNG)  
 
 ## 📝 Citation
 If this work contributes to your research, please cite it using the following format:
