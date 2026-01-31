@@ -8,6 +8,9 @@ I am currently occupied with urgent work commitments, so the relevant code for t
 If you are interested in this research, please refer to the published article first:
 🔗 [Semi-Supervised Learning for AVO Inversion with Bidirectional Spatial Feature Constraints](https://www.sciencedirect.com/science/article/pii/S1995822626000051)
 
+### 🔬 Exploration of Utility Function Parameter Space  
+![Utility Function Exploration](https://github.com/Yingtian-Liu/Nash-multitask-learning-prestack-three-parameter-inversion/blob/main/Image/Exploration%20of%20utility%20function%20parameter%20space.png)  
+
 ## 📝 Citation
 If this work contributes to your research, please cite it using the following format:
 ```bibtex
